@@ -17,7 +17,7 @@ code_files:
 # The declarations for test files
 test_files:
 # Controller tests
-- {name: Assembly/ViewControllerTests.swift, path: Tests/controller_tests.swift.liquid}
+- {name: ViewControllerTests.swift, path: Tests/controller_tests.swift.liquid}
 
 # Template dependencies
 dependencies:
